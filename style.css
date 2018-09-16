@@ -1,7 +1,8 @@
 
 
 html {position: relative;
-    min-height: 110%
+    min-height: 110%;
+    
 }
 
 .navbar {background-color: white;}
@@ -30,10 +31,23 @@ body {background-color: rgb(117, 178, 189)}
     margin: 10px
 }
 
-.col-md-1 {background-color: lightsteelblue;
-    width:50px
+.col-md-12 {background-color: whitesmoke;
+    width: 940px
+    
 }
 
 h1 {color: rgba(4, 0, 255, 0.959) }
 
 p {color: rgba(230, 30, 63, 0.822); font-family: "verdana"}
+
+.col-sm-5 {background-color: rgb(117, 178, 189);
+            height: 400px;
+            width: 430px;
+            margin: 10px;
+            align: center
+}
+
+h2 {font-size: 20px; 
+    color:rgba(4, 0, 255, 0.959)
+
+}
