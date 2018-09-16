@@ -1,4 +1,7 @@
-
+@media (min-width: 200px) {
+    .navbar {display: inline;
+    background-color: seashell}
+}
 
 html {position: relative;
     min-height: 110%;
